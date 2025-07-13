@@ -75,11 +75,3 @@ gcc pipe2.c -o pipe2 && ./pipe2
   - Piping mechanisms (`pipe()` system call)
 
 ---
-
-## 📄 License
-
-This repository is open-sourced under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for educational and personal use.
-
----
-
-> 💡 Feel free to contribute improvements or optimizations. Fork the repo and raise a pull request!
